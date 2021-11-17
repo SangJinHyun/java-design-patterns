@@ -1,15 +1,23 @@
 ##Name
 Pessimistic offline lock pattern
 
----
-layout: pattern
-title: Pessimistic offline lock 
-folder: pessimistic-offline-lock
-permalink: /patterns/pessimistic-offline-lock/
-categories: Structural
-tags:
-- Pessimistic Offline Lock Pattern
----
+[comment]: <> (---)
+
+[comment]: <> (layout: pattern)
+
+[comment]: <> (title: Pessimistic offline lock )
+
+[comment]: <> (folder: pessimistic-offline-lock)
+
+[comment]: <> (permalink: /patterns/pessimistic-offline-lock/)
+
+[comment]: <> (categories: Structural)
+
+[comment]: <> (tags:)
+
+[comment]: <> (- Pessimistic Offline Lock Pattern)
+
+[comment]: <> (---)
 
 ## Intent
 

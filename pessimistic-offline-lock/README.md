@@ -1,4 +1,4 @@
-##Name
+## Name
 Pessimistic offline lock pattern
 
 ## Intent
@@ -23,6 +23,7 @@ In summary:
 
 ## Applicability
 
+If you have a transaction for business where the priority should be one transaction at any given time. 
 
 ## Known Uses
 
@@ -31,6 +32,7 @@ concurrency
 
 ## Related patterns
 
+- Offline concurrency patterns 
 - Optimistic offline lock pattern
 
 

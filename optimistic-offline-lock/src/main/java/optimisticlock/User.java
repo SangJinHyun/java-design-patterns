@@ -18,7 +18,13 @@ public class User {
     @Column( name = "id")
     private long id;
 
-    
+    @Column ( name = "user_name" , length = 100)
+    private String userName;
+
+    //    @Column ( name = "password" , nullable = true)
+    @Column ( name = "password" , nullable = false)
+    private String password;
+
 
 
 

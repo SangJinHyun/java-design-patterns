@@ -10,8 +10,14 @@ import javax.persistence.Table;
 import javax.persistence.Version;
 
 @Entity
-@Table( name = "person")
+@Table( name = "user")
 public class User {
+
+    @Id
+    @GeneratedValue( strategy = GenerationType.IDENTITY)
+    @Column( name = "id")
+    private long id;
+
     
 
 
